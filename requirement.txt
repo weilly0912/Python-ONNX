@@ -1,6 +1,6 @@
-coremltools 
-onnxmltools
+coremltools
 torchvision 
+cntk==2.6
 tf2onnx
 mxnet
 chainer
@@ -8,6 +8,6 @@ onnx-caffe2
 git+https://github.com/asiryan/caffe2onnx
 onnx2keras
 onnx-pytorch
-onnx-coreml==3.2
+onnx-coreml
 onnx-tf
-tensorflow-addons
+onnxmltools
